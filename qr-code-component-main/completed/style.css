@@ -6,10 +6,13 @@
 
 body {
     background-color: hsl(212, 45%, 89%);
+}
+
+main {
     display: flex;
-    justify-content: center;
-    font-family: 'Outfit', sans-serif;
-    min-height: 100vh;
+        justify-content: center;
+        font-family: 'Outfit', sans-serif;
+        min-height: 100vh;
 }
 
 .qrCard {
@@ -29,7 +32,7 @@ img {
     margin-bottom: 1.5rem;
 }
 
-h2 {
+h1 {
     color: hsl(218, 44%, 22%);
     font-size: 22px;
     font-weight: 700;
