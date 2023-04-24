@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    font-family: 'Outfit', sans-serif;
+    min-height: 1000px;
+}
+
+.qrCard {
+    max-height: 500px;
+    max-width: 300px;
+    background-color: #fff;
+    padding: 1.1rem;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    text-align: center;
+}
+
+img {
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%)
+}
