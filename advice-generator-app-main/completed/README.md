@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - [Live Site](https://6451828d06603a1f3fb91ef4--precious-dusk-9e7856.netlify.app/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Code Solution](https://github.com/rinster/FrontendMentorIO/tree/main/advice-generator-app-main/completed)
 
 ## My process
 
